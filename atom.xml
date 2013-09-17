@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io/"/>
-  <updated>2013-09-17T12:32:47-04:00</updated>
+  <updated>2013-09-17T12:35:41-04:00</updated>
   <id>http://SBlines.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Post]]></title>
+    <link href="http://SBlines.github.io/blog/2013/09/17/second-post/"/>
+    <updated>2013-09-17T12:35:00-04:00</updated>
+    <id>http://SBlines.github.io/blog/2013/09/17/second-post</id>
+    <content type="html"><![CDATA[<h2>Getting a lot farther now</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
