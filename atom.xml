@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io/"/>
-  <updated>2013-09-19T15:10:10-04:00</updated>
+  <updated>2013-09-20T09:53:50-04:00</updated>
   <id>http://SBlines.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fourth Post]]></title>
+    <link href="http://SBlines.github.io/blog/2013/09/20/fourth-post/"/>
+    <updated>2013-09-20T09:40:00-04:00</updated>
+    <id>http://SBlines.github.io/blog/2013/09/20/fourth-post</id>
+    <content type="html"><![CDATA[<p>Fourth Post H1
+Looks like the third post didin&rsquo;t send to the correct place but I can see it in the preview, along with an updated theme.
+I enjoyed my week here at Fullstack and am looking forward to the rest of my time here.
+Some of the Ruby has been difficult. While I didn&rsquo;t do most of the testing, it didn&rsquo;t look so difficult when we went over the problems and I was able to see how the programs ran. I think that with time I will become more aware of what Ruby can do and how to make it happen. I have since begun the Haiku project, which doesn&rsquo;t seem as difficult as I had initially thought. It all comes down to getting Ruby to do what I need it do. All that&rsquo;s left for me is to find the right commands.
+Pair programming worked out well. I liked being a part of a team and it was interesting to see how Vin and Scott think in relation to the code. I found that Vin and I had a more similar approach. I am interested in working with the rest of the students but feel I should be more prepared next time, in order to contribute more to the code.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Email Update]]></title>
