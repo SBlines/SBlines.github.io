@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io/"/>
-  <updated>2013-09-27T12:47:35-04:00</updated>
+  <updated>2013-09-27T16:55:35-04:00</updated>
   <id>http://SBlines.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Number 6]]></title>
+    <link href="http://SBlines.github.io/blog/2013/09/27/number-6/"/>
+    <updated>2013-09-27T16:44:00-04:00</updated>
+    <id>http://SBlines.github.io/blog/2013/09/27/number-6</id>
+    <content type="html"><![CDATA[<h1>Number 6</h1>
+
+<p>While waiting for 1-on-1 chats to continue I focused on Codecademy&rsquo;s Ruby work. If I can get more of the general concepts under control, I&rsquo;ll have an easier time with anything Ruby-related rather than the specific tasks needed for the exercises. While the exercises are a good way to prove what I know by putting my knowledge to use, there&rsquo;s not so much knowledge available right now. I&rsquo;m working on the Object-Oriented Programming I section with classes and being able to read about them while practicing the lesson in repl seems to be working.
+As frustrating as things can get I kept in mind that I only need time to work at my own pace (while hoping that I don&rsquo;t become severely out-paced by the curriculum). Regardless of how my learning progress compares to the rest of the class, I&rsquo;ll get things done. This downtime has already proved to be very worthwhile and there is still an hour before I go in for the chat.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Number 5]]></title>
