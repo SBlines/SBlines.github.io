@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io/"/>
-  <updated>2013-09-27T16:55:35-04:00</updated>
+  <updated>2013-10-04T10:03:26-04:00</updated>
   <id>http://SBlines.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Post 7]]></title>
+    <link href="http://SBlines.github.io/blog/2013/10/04/post-7/"/>
+    <updated>2013-10-04T09:49:00-04:00</updated>
+    <id>http://SBlines.github.io/blog/2013/10/04/post-7</id>
+    <content type="html"><![CDATA[<h1>End of Week 3</h1>
+
+<p>I feel like we&rsquo;re really getting into things now and am trying to think ahead so that I&rsquo;m not wondering &lsquo;where did the time go?&rsquo; once we get to December. I miss this place already.</p>
+
+<p>Stackworld was a lot of fun this week. My favorite part was the interaction, that there was more to it than typing a few things and just looking at the output. I was able to customize the player pages a bit and felt really good helping others do the same. For once I wasn&rsquo;t poking around trying to see who could help me, instead a few guys were gathered around my screen to look at the code. I spent some freetime creating rooms and have more of the world planned out.</p>
+
+<p>I barely got any prep work done this week. I&rsquo;ve been too tired by the time I leave that I can&rsquo;t concentrate on anything else. Even reading the web-scraping info last night was taking longer than it should have. I&rsquo;ll take another look at Ruby Bits where I was stuck, and possibly the Treehouse Ruby tomorrow.</p>
+
+<p>Maybe at some point I&rsquo;ll look into a comments section for the blog.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Number 6]]></title>
