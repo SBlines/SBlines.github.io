@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io/"/>
-  <updated>2013-10-18T10:41:28-04:00</updated>
+  <updated>2013-10-25T10:04:54-04:00</updated>
   <id>http://SBlines.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Number 10]]></title>
+    <link href="http://SBlines.github.io/blog/2013/10/25/number-10/"/>
+    <updated>2013-10-25T09:07:00-04:00</updated>
+    <id>http://SBlines.github.io/blog/2013/10/25/number-10</id>
+    <content type="html"><![CDATA[<h1>End of Week 6</h1>
+
+<p>This week we began front end development. I didn&rsquo;t have much trouble with the CSS and again felt good being able to help others with their pages. I was able to figure most of it out with W3 and Stack Overflow, I didn&rsquo;t want to copy any of the Bootstrap page&rsquo;s code. The CSS-Tricks site in the tutorial helped me a lot, and then after that I just needed to clearfix a few things. That seems to be the solution to many of my HTML problems, along with putting borders around everything. I will try to implement these techniques into non-coding situations as well.</p>
+
+<p>I did better on the Test First JavaScript than the first round of Ruby tests. I have a problem understanding what the test requires but knowing code in general will likely help me figure out things- or at least fail, faster. My brain has been all Ruby lately that I didn&rsquo;t remember much of the JavaScript I did learn before applying to Fullstack and should finish the first Code School JQuery course so that I won&rsquo;t be lost when we start it. First thing is to finish the Rails tutorial because we covered enough throughout the course and I should have it figured out by now.</p>
+
+<p>I like the Game of Life project we&rsquo;re working on. Typing out the code itself has been confusing but I&rsquo;ve been able to get some accurate pseudo-code and plan things out. THe whole thing doesn&rsquo;t seem as intense as something like Rails Starter and I&rsquo;d really like to complete this one.</p>
+
+<p>My group&rsquo;s Rails Starter was never finished. The plan was to stay late this week except we were all staying late anyway to do other things. I can still do some more of it once I get through the Michael Hartl tutorial.</p>
+
+<p>Box is working out for me. I&rsquo;m still learning the basic keyboard shortcuts but can get around without trouble. Besides browsing and command line, I don&rsquo;t know much about Macs in general and  should take a look around the system preferences and all these other things that were pre-installed. Sublime is helpful for coding. I always used Notepad but the things we do here are too extreme for me to have in just one color. Much easier to tell if I spelled a kayword wrong, because the color would be different and I make plenty of typing mistakes on this keyboard.</p>
+
+<p>I&rsquo;d choose Ruby over JavaScript right now, which had never been the case. It must be from using it so much that I&rsquo;ve gotten familiar with the way Ruby can be typed up. Overall I feel like my progress is good enough though it would be nice if I were able to fit more free-time studying in during the week. By the time I get back to my apartment I usually can&rsquo;t concentrate well and just look over some of the things we did that week. Weekends I put as much time as I can into the prep work. One thing I haven&rsquo;t done is integrate with the coding community. I don&rsquo;t read or write coding blogs. I did this for HTML in high school, with MySpace friends but have yet to do this with Ruby. Once I get all the information I can through the guides online I&rsquo;ll start dealing with people more directly.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Number Nine]]></title>
