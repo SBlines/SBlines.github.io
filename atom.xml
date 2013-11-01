@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io/"/>
-  <updated>2013-10-25T10:04:54-04:00</updated>
+  <updated>2013-11-01T13:45:28-04:00</updated>
   <id>http://SBlines.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Number 11]]></title>
+    <link href="http://SBlines.github.io/blog/2013/11/01/number-11/"/>
+    <updated>2013-11-01T12:55:00-04:00</updated>
+    <id>http://SBlines.github.io/blog/2013/11/01/number-11</id>
+    <content type="html"><![CDATA[<h1>End of Week 7</h1>
+
+<p>I don&rsquo;t remember what we did the beginning of this week. jQuery which I liked doing and probaby Trip Planner. Once Rails was set up I was able to get to work and cash in $$$$. The way I set up the different days wasn&rsquo;t the DRYest but it worked and I was able to get it done within reasonable time. For the first time using jQuery, I just wanted things to work.</p>
+
+<p>Ajax will be dealt with, still trying to figure out the Code School course but I&rsquo;ll work on it this weekend. I was only watching some of the videos, without sound, which isn&rsquo;t the best way to learn.</p>
+
+<p>My Code School rank is up there and after this weekend I&rsquo;ll be on top and finally take Julian&rsquo;s spot. I shouldn&rsquo;t let this distract me from Treehouse, but it does.</p>
+
+<p>We&rsquo;ve been doing Exercism problems in the morning which is a nice way to star the morning. They&rsquo;re not too intense which helps ease into the day. Besides the actual test parameters, only today did I have some trouble with Nucleotide Count. The hash wasn&rsquo;t updating as expected.</p>
+
+<p>I&rsquo;ve been feeling like less of an impostor after Game of Life and Trip Planner, aka less Ruby/Rails which only means I need to keep working on them. I continued to work on Michael Hartl&rsquo;s tutorial last weekend but felt like I didn&rsquo;t accomplish much despite new lines of code. This weekend I&rsquo;m going to work on Ajax, Backbone, and JavaScript.</p>
+
+<p>I&rsquo;d like to focus on frontend for the project. I have a few ideas and it comes down to being able to push myself just enough to stay within the time limit. I will move on from Gosu to stick with JS.</p>
+
+<p>Missed yoga today, by the time I saw the shoes outside the session was 10 minutes in. I could have jumped in but I&rsquo;ll do some stretching later. I came in late today which is maybe why I didn&rsquo;t know we&rsquo;d be doing yoga. Instead, I went outside to watch a movie in the making. I really wanted to tell Keanu Reeves that I know Kung Fu. I was casted for two scenes in The Dark Knight Rises in 2011. I took the whole week off from work for costuming and rehearsals except the scenes ended up getting canceled before anything started. Then I was asked to do another shot but ended up not going as it was only a few days&#8217; notice and I had plans to go to a concert. When I saw Electric Six play the next time, I was able to tell the singer how I skipped being in the movie for their show.</p>
+
+<p>I&rsquo;m really hungry so I&rsquo;m going to stop typing now.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Number 10]]></title>
