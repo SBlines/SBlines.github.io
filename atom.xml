@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io/"/>
-  <updated>2013-11-01T13:45:28-04:00</updated>
+  <updated>2013-11-15T10:54:41-05:00</updated>
   <id>http://SBlines.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[End of Week 9]]></title>
+    <link href="http://SBlines.github.io/blog/2013/11/15/number-12/"/>
+    <updated>2013-11-15T10:15:00-05:00</updated>
+    <id>http://SBlines.github.io/blog/2013/11/15/number-12</id>
+    <content type="html"><![CDATA[<h1>End of Week 9</h1>
+
+<p>I forgot about typing something up last week and then never got around to doing it. I was working on the Ajax Codeschool course last week and didn&rsquo;t learn much because the site was very slow. I&rsquo;d have to submit my answers multiple times and because every try took a few seconds, I&rsquo;d either get distracted by something else or forget the ideas I had for the code to work. I was on the top of the chart for a bit and am currently tied with Vinod for first.
+Stackgiving was great, I never would have expected it to be so extravagant. There was so much food and everyone involved in the preparation of both the foom (that&rsquo;s how I typed &lsquo;room and food&rsquo; by accident) must have worked so hard.
+I spent this week working on two small games. The plan I made with Nimit was to make known games like Tetris and Space Invaders but while browsing through JS games on Monday I came up with a few ideas. I&rsquo;ve been very excited about being able to turn my ideas into something not only visual but also interactive. Another step visually is to draw out the icons/characters but that&rsquo;s going to take time and will not help my coding knowledge. If I need a break from Sublime I might try.
+Being that I covered about 80% of each game in just a few days, I don&rsquo;t expect them to be enough for a 4-week project. I have begun to review the Crafty JS game engine which so far seems to have a good balance of help and getting things done on my own. I hope this will help me learn the gaming basics in case I end up doing something like this for a career.
+THe goal of learning Crafty is to bring into existence an idea that David has. At first I thought it would be impossible but I already have a very basic idea of how I could do it:
+2d array, let&rsquo;s say 10x10 for now. An X and an O on opposite sides, like field[5][0] and field[5][9]. Using Ajax to grab the info, players can type up instructions and have the program run it. &lsquo;Move Right&rsquo; would move the X or O ship to the right, adding to the second index in the field set. X&rsquo;s position would change to field[5][1]. After iteration through the field, images will be added where the ships are, and maybe space-themed tiles elsewhere. Rocks or something to block movement/attacks and somehow have a function check if that space is clear prior to movement. Attacking would work the same way. &lsquo;Fire Up&rsquo; checks the first index in field and if the content contains X or O, a ship, that sips loses health. O can Fire Up upon [4][9]. This will be easier to do without tracking projectiles, just show another image of the ship lighting up as if it were shooting something bright.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Number 11]]></title>
