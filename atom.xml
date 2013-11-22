@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://SBlines.github.io/atom.xml" rel="self"/>
   <link href="http://SBlines.github.io/"/>
-  <updated>2013-11-15T10:56:35-05:00</updated>
+  <updated>2013-11-22T18:07:04-05:00</updated>
   <id>http://SBlines.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Number 13]]></title>
+    <link href="http://SBlines.github.io/blog/2013/11/22/number-13/"/>
+    <updated>2013-11-22T17:42:00-05:00</updated>
+    <id>http://SBlines.github.io/blog/2013/11/22/number-13</id>
+    <content type="html"><![CDATA[<h1>End of Week 10</h1>
+
+<p>Typing this one at my apartment because my foot has been in bad shape since last Thursday night. Stayed in today after a tiring trip around town on crutches.</p>
+
+<p>So there&rsquo;s not much time left. I&rsquo;m putting my games off to the side and learning Backbone which I want to base my capstone project off of. So far, so ok. I&rsquo;m having an easier time with this than Rails. The O&#8217;Reily book I ordered came last night which is perfect because I will be doing a lot of sitting around on my own and now I can read this thing rather than scroll around the book&rsquo;s website. I think two weeks is enough time if I work hard, which I intend to do. Codeschool Backbone is going well, as I didn&rsquo;t have any idea what was going on the first time I tried it. Level 1 gave me Rails nightmares and I didn&rsquo;t try the next level. I can&rsquo;t say whether Codeschool is the best way to learn and thus have not been focusing on it. There are multiple resources I have been using to learn about extending Views and Models. Underscore is voodoo-magic for now, I&rsquo;m not going to stress myself figuring it out just yet.</p>
+
+<p>Can&rsquo;t figure out what else to put, this post seems shorter than the past few. Doesn&rsquo;t matter, back to work.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[End of Week 9]]></title>
